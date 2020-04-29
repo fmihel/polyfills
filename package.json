@@ -1,0 +1,25 @@
+{
+  "name": "fmihel-polyfills",
+  "version": "0.0.1",
+  "description": "include some polyfills in my offline browsers projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmihel/polyfills.git"
+  },
+  "keywords": [
+    "javascript",
+    "IE",
+    "IE11",
+    "polyfill"
+  ],
+  "author": "fmihel76@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fmihel/polyfills/issues"
+  },
+  "homepage": "https://github.com/fmihel/polyfills#readme"
+}
