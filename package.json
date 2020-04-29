@@ -1,6 +1,6 @@
 {
   "name": "fmihel-polyfills",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "include some polyfills in my offline browsers projects",
   "main": "index.js",
   "scripts": {
