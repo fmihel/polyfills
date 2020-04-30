@@ -1,6 +1,7 @@
 import "./source/Array.prototype.find";
 import "./source/Array.prototype.includes";
 import "./source/Promise";
+import "./source/ResizeObserver";
 
 /*
 function loader(...names){
