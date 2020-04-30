@@ -2,7 +2,9 @@ import "./source/Array.prototype.find";
 import "./source/Array.prototype.includes";
 import "./source/Promise";
 import "./source/ResizeObserver";
-
+import "./source/Math.sign";
+import "./source/Math.trunc";
+import "./source/Number.isInteger";
 /*
 function loader(...names){
     names.forEach(name=>{

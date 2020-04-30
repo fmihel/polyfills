@@ -1,0 +1,1 @@
+Math.trunc||(Math.trunc=function(a){a=+a;return a-a%1||(isFinite(a)&&0!==a?0>a?-0:0:a)});
