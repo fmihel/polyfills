@@ -1,11 +1,11 @@
 {
   "name": "fmihel-polyfills",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "include some polyfills in my offline browsers projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "git-push":"git push polyfills && git push polyfills --tag",
+    "git-push": "git push polyfills && git push polyfills --tag",
     "npm-publish-patch": "npm version patch && npm publish && npm run git-push",
     "npm-publish-minor": "npm version minor && npm publish && npm run git-push",
     "npm-publish-major": "npm version major && npm publish && npm run git-push"
