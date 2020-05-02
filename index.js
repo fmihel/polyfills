@@ -1,5 +1,6 @@
 import "./source/Array.prototype.find";
 import "./source/Array.prototype.includes";
+import "./source/Array.prototype.findIndex";
 import "./source/Promise";
 import "./source/ResizeObserver";
 import "./source/Math.sign";

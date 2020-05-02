@@ -5,6 +5,7 @@ include some polyfill in my offline browser projects
 |------|
 |```Array.prototype.find```|
 |```Array.prototype.includes```|
+|```Array.prototype.findIndex```|
 |```Promise```|
 |```ResizeObserver```|
 |```Math.sign```|

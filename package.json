@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "git-push":"git push polyfills && git push polyfills --tag",
-    "npm-up-ver-publish-push":"npm version minor && npm publish && npm run git-push"
+    "npm-publish-patch": "npm version patch && npm publish && npm run git-push",
+    "npm-publish-minor": "npm version minor && npm publish && npm run git-push",
+    "npm-publish-major": "npm version major && npm publish && npm run git-push"
   },
   "repository": {
     "type": "git",
