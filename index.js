@@ -6,6 +6,7 @@ import "./source/ResizeObserver";
 import "./source/Math.sign";
 import "./source/Math.trunc";
 import "./source/Number.isInteger";
+import "./source/Number.isNaN";
 /*
 function loader(...names){
     names.forEach(name=>{

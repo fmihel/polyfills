@@ -11,6 +11,7 @@ include some polyfill in my offline browser projects
 |```Math.sign```|
 |```Math.trunc```|
 |```Number.isInteger```|
+|```Number.isNaN```|
 
 
 

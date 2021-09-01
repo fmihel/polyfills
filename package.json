@@ -4,7 +4,6 @@
   "description": "include some polyfills in my offline browsers projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "git-push": "git push polyfills && git push polyfills --tag",
     "npm-publish-patch": "npm version patch && npm publish && npm run git-push",
     "npm-publish-minor": "npm version minor && npm publish && npm run git-push",
