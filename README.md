@@ -1,5 +1,11 @@
 # polyfills
 include some polyfill in my offline browser projects 
+# install
+``` npm i fmihel-polyfills ```
+# use
+```js
+import 'fmihel-polyfills';
+```
 ## set
 ||
 |------|
@@ -12,6 +18,7 @@ include some polyfill in my offline browser projects
 |```Math.trunc```|
 |```Number.isInteger```|
 |```Number.isNaN```|
+|```Object.values```|
 
 
 
