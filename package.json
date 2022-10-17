@@ -4,7 +4,7 @@
   "description": "include some polyfills in my offline browsers projects",
   "main": "index.js",
   "scripts": {
-    "git-push": "git push polyfills && git push polyfills --tag",
+    "git-push": "git push original master && git push original --tag",
     "npm-publish-patch": "npm version patch && npm publish && npm run git-push",
     "npm-publish-minor": "npm version minor && npm publish && npm run git-push",
     "npm-publish-major": "npm version major && npm publish && npm run git-push"
