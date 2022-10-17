@@ -19,6 +19,7 @@ import 'fmihel-polyfills';
 |```Number.isInteger```|
 |```Number.isNaN```|
 |```Object.values```|
+|```Object.keys```|
 
 
 

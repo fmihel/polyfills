@@ -8,6 +8,7 @@ import "./source/Math.trunc";
 import "./source/Number.isInteger";
 import "./source/Number.isNaN";
 import "./source/Object.values";
+import "./source/Object.keys";
 /*
 function loader(...names){
     names.forEach(name=>{
